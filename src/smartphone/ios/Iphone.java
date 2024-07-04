@@ -1,8 +1,9 @@
 package smartphone.ios;
+
 import smartphone.apps.AparelhoTelefonico;
 import smartphone.apps.NavegadorInternet;
 import smartphone.apps.ReprodutorMusical;
-import smartphone.execucaoapps.AppServico;
+import smartphone.execucaoApps.AppServico;
 
 public class Iphone {
     public static void main(String[] args) {
@@ -23,5 +24,5 @@ public class Iphone {
         aparelhoTelefonico.atender();
         aparelhoTelefonico.iniciarCorreioVoz();
     }
-    
+
 }

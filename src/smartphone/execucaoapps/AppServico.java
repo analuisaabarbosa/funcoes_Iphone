@@ -1,4 +1,4 @@
-package smartphone.execucaoapps;
+package smartphone.execucaoApps;
 
 import smartphone.apps.AparelhoTelefonico;
 import smartphone.apps.NavegadorInternet;
